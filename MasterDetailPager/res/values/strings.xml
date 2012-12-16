@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MasterDetailPager</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="page_one_title">Page One</string>
+    <string name="page_two_title">Page Two</string>
+
+</resources>

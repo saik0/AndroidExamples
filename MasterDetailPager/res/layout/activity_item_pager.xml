@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.view.ViewPager xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/pager"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+    <android.support.v4.view.PagerTabStrip
+        android:id="@+id/pager_tab_strip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top" />
+
+    <include
+        android:id="@+id/page_item_list_one"
+        layout="@layout/page_item_list_one" />
+
+    <include
+        android:id="@+id/page_item_list_two"
+        layout="@layout/page_item_list_two" />
+</android.support.v4.view.ViewPager>
