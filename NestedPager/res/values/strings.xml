@@ -1,0 +1,8 @@
+<resources>
+
+	<string name="app_name">NestedPager</string>
+	<string name="title_activity_main">NestedPager</string>
+	<string name="page">Page %d</string>
+	<string name="fragment">Fragment %d</string>
+
+</resources>
